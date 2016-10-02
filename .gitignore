@@ -1,0 +1,7 @@
+#vi files
+
+*.swp
+*~
+
+#any credentials files
+*.creds
